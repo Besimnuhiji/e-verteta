@@ -1,4 +1,4 @@
-#include <iostream>
+ #include <iostream>
 using namespace std;
 int main()
 {
@@ -8,6 +8,7 @@ int main()
   nm= (n1+n2+n3+n4+n5)/5;
   cout<<"nota mestare eshte : ";
   cout<< nm;
+  return 0;
 
   
   }
